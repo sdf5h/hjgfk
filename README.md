@@ -29,8 +29,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/sdf5h/hjgfk
-   cd ssh-linode-connection
+   git clone https://github.com/sdf5h/hjgfk.git
    
 2. Установите зависимости:
      pip install -r requirements.txt
